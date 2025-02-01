@@ -1,0 +1,3 @@
+log_interval:6
+folder_id:1mc67hFABfoTGHFHmWLjN5WT1Uy4U-87T
+division_factor:10
